@@ -1,0 +1,11 @@
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\bin\Debug\ShopUI.exe.config
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\bin\Debug\ShopUI.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\bin\Debug\ShopUI.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.Shop.resources
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.csproj.GenerateResource.Cache
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\obj\Debug\ShopUI.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\bin\Debug\DistributionShopLibrary.dll
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\ShopUI\bin\Debug\DistributionShopLibrary.pdb

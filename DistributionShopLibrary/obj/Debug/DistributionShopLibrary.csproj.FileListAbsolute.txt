@@ -1,0 +1,4 @@
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\DistributionShopLibrary\bin\Debug\DistributionShopLibrary.dll
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\DistributionShopLibrary\bin\Debug\DistributionShopLibrary.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\DistributionShopLibrary\obj\Debug\DistributionShopLibrary.dll
+c:\users\jordan\documents\visual studio 2015\Projects\Shop\DistributionShopLibrary\obj\Debug\DistributionShopLibrary.pdb
